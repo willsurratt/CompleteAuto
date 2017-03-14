@@ -1,0 +1,24 @@
+{
+  "name": "Complete Automotive",
+  "description": "Website for Complete Auto",
+  "main": "index.jade",
+  "authors": [
+    "Camden Clowerd",
+    "Lawrence Surratt"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "Shop",
+    "Repair",
+    "Automotives"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

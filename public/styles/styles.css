@@ -1,0 +1,31 @@
+#home {
+	/* max value is 255, 255, 255 white (#FF == 255) */
+	background: rgb(60, 60, 60);/* gray */
+	color: rgb(255, 255, 255);/* white */
+}
+
+#about {
+	background: #44CC44;
+}
+
+#calendar {
+	background: #CC4444;
+}
+
+#footer {
+	background: #44CC44;
+	text-align: center;
+}
+
+
+.screen {
+	/* position: relative; allows us to set the top css attribute */
+	position: relative;
+	min-height: 450px;
+	text-align: center;
+}
+
+
+body > nav > div > div.collapse.navbar-collapse.navbar-ex1-collapse > ul > li.active > a {
+	background: #000;
+}
